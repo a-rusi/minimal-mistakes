@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Alejandro Rusi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer and Computer Science student from Buenos Aires, Argentina"
+  bio              : "I'm a Software Engineer and Computer Science student. This is a page to talk about my projects and blogposts. Welcome!"
   location         : "Buenos Aires, Argentina"
   links:
     - label: "Email"
