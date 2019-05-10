@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Alejandro Rusi"
   avatar           : "/assets/images/i.jpg"
-  bio              : "I'm a Software Engineer and Computer Science student. This is a page to talk about my projects and blogposts. Welcome!"
+  bio              : "I'm a Software Engineer and Computer Science student. This is a website to talk about my projects and share some blogposts. Welcome!"
   location         : "Buenos Aires, Argentina"
   links:
     - label: "Email"
