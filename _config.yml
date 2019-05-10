@@ -110,7 +110,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer and Computer Science student from Buenos Aires, Argentina"
   location         : "Buenos Aires, Argentina"
-  email            : "alejandro.rusi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
