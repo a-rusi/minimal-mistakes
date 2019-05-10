@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Alejandro Rusi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/i.jpg"
   bio              : "I'm a Software Engineer and Computer Science student. This is a page to talk about my projects and blogposts. Welcome!"
   location         : "Buenos Aires, Argentina"
   links:
